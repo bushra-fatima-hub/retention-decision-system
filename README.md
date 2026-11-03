@@ -1,7 +1,5 @@
 # CUSTOMER RETENTION DECISION SYSTEM
 
-# Customer Retention Decision Engine
-
 I built this project to answer a question every subscription business has: **we have a limited budget for retention offers, so which customers should get one?**
 
 **Live app:** https://retention-engine.streamlit.app
