@@ -1,0 +1,11 @@
+feature,ks_stat,drift
+avg_discount,0.924,True
+auto_renew,0.268,True
+city,0.012,False
+num_payments,0.008,False
+tenure_days,0.008,False
+total_paid,0.007,False
+registered_via,0.007,False
+age,0.005,False
+plan_days,0.005,False
+ever_cancelled,0.001,False
