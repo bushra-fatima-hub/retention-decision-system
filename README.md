@@ -33,6 +33,12 @@ I used Databricks for the large data because it was too big for my laptop, then 
 - **Targeting by my model saves far more than random targeting.** On a NT$100,000 budget, my model gave a net profit of about **NT$126,780**, while random targeting **lost NT$77,412**.
 - **The best cutoff is the top 11,302 customers**, for a maximum net profit of about NT$321,701.
 
+## Power BI dashboard
+
+![Retention dashboard](dashboards/dashboard.png)
+
+The Power BI file (`retention_dashboard.pbix`) is in the `dashboards` folder.
+
 ## Assumptions
 
 - A retention offer costs NT$50.
